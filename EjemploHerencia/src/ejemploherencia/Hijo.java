@@ -11,7 +11,7 @@ public class Hijo extends Padre{
         System.out.println("Nombre: " +nombre+
                             "\nEdad: "+edad+
                             "\nAltura: "+altura+
-                            "\nConstitucion fisica: "+ constitucion_fisica+
+                            "\nConstitucion fisica: "+constitucion_fisica+
                             "\nOjos: "+ojos+ 
                             "\nPiel: "+piel+
                             "\nCabello: "+cabello);    
